@@ -47,5 +47,4 @@ Recommended Python environment:
 - matplotlib
 - shap
 - codecarbon
-- (optional) nltk
 
